@@ -9,3 +9,5 @@ K
 tests/farm-registry.test.ts,c/3/c31c78da335c2e5d000b39c1bdda2f31589e2544
 K
 contracts/water-source.clar,3/2/32514aa4ca83ed203ecf178f3e362d2d01ced616
+J
+contracts/water-usage.clar,7/7/77522e83ad579440c10fd4092f0cdc8c8531f188
